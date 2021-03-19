@@ -19,7 +19,7 @@
 
 ### 界面预览
 
-<img src="README.assets/开始界面.png" alt="开始界面" style="zoom: 25%;" /> 
+<img src="README.assets/开始界面.png" alt="开始界面" style="zoom: 33%;" /> 
 
 <img src="README.assets/设置界面.png" alt="设置界面" style="zoom:33%;" /> 
 
