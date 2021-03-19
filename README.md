@@ -19,9 +19,9 @@
 
 ### 界面预览
 
-<img src="README.assets/开始界面.png" alt="开始界面" style="zoom: 33%;" /> 
+<img src="README.assets/开始界面.png" alt="开始界面" style="zoom: 25%;" /> 
 
-<img src="E:/CDUT/大三软件工程/关卡截图/设置界面.png" alt="设置界面" style="zoom:33%;" /> 
+<img src="README.assets/设置界面.png" alt="设置界面" style="zoom:33%;" /> 
 
 <img src="README.assets/中等难度关卡.png" alt="中等难度关卡" style="zoom:33%;" /> 
 
